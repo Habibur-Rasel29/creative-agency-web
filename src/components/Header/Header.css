@@ -1,0 +1,40 @@
+.navbar-brand img{
+    width: 25%;
+}
+li>button{
+    margin: 5px;
+    height: 40px;
+}
+.login{
+    background-color: #111430;
+    border-radius: 5px
+    
+}
+.login h6{
+    color: white;
+}
+.adminN{
+        background-color: black;
+        color: white;
+        border-radius: 20PX;
+    }
+.adminN h6{
+    color: white;
+}
+li>button:focus{
+    border: none;
+    outline: none;
+}
+ .header{
+   
+        position: absolute;
+      width: 1360px;
+      height: 684.53px;
+      left: 0px;
+      top: -8.53px;
+      
+      clip-path:polygon(500% 0, 0% 0%, 0% 95%);
+      background-color: #FBD062;
+        
+      
+} 

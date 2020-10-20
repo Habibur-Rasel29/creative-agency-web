@@ -1,0 +1,55 @@
+.site{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.card{
+    margin: 20px; 
+ 
+    border: none !important;
+}
+.card img{
+    margin:0 auto;
+    margin-top: 20px;
+}
+.graphics{
+ box-shadow: 5px 5px 10px 10px lightgray;
+  
+   
+}
+.service{
+    margin: 20px;
+}
+.work{
+ 
+    margin-top: 100px;
+    background-color: #111430;
+    border: 1px solid #111430;
+    
+}
+.work-des{
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+}
+.work-sec{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.work-sec img{
+    margin-top: 20px;
+    padding: 30px;
+} 
+.feedback{
+    display: flex;
+
+}
+.name{
+    margin-top: 50px;
+}
+.feedback-client{
+    border: 1px solid lightgray !important;
+}
+

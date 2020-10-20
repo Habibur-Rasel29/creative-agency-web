@@ -1,0 +1,22 @@
+.footer{
+    
+    position: absolute;
+    background-color: #FBD062;
+    margin-top: 100px;
+}
+input[type=text]{
+    width : 500px;
+    height: 70px;
+}
+.footer-col{
+  margin-left:80px ;
+}
+.row p{
+   margin: 0 auto;
+}
+ button{
+    width: 170px;
+    height: 45px;
+    background-color: #111430;
+    color: white;
+}
