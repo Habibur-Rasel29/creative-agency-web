@@ -26,8 +26,8 @@ const Home = () => {
           <img style={{width:'5%'}} src={netflix} alt=""/>
           <img style={{width:'5%'}} src={airbnb} alt=""/>
          </div>
-         <div className="service">
-            <h1>Provide awesome services</h1>
+         <div style={{textAlign:'center'}} className="service">
+            <h1 >Provide awesome services</h1>
             </div>
           
             <div class="card-deck">
